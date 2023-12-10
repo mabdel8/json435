@@ -1,25 +1,25 @@
 {
 "userData2": [
   {
-    "id": "${UUID()}",
+    "id": "ef72f8bd-7e09-48ee-868f-61dcd4b66323",
     "userName": "userMain",
     "userPass": "passwordMain",
     "score": 0
   },
   {
-    "id": "${UUID()}",
+    "id": "e284308e-4462-4a1b-99d1-328a0c08fe27",
     "userName": "user1",
     "userPass": "password1",
     "score": 20
   },
   {
-    "id": "${UUID()}",
+    "id": "d2d730f8-1ea2-474e-b612-82df66949f32",
     "userName": "user2",
     "userPass": "password2",
     "score": 60
   },
   {
-    "id": "${UUID()}",
+    "id": "59b61807-333a-4e88-a6ca-6b7af05999b4",
     "userName": "user3",
     "userPass": "password3",
     "score": 40
