@@ -1,25 +1,25 @@
 {
 "userData": [
   {
-    "id": 0,
+    "id": "${UUID()}",
     "userName": "userMain",
     "userPass": "passwordMain",
     "score": 0
   },
   {
-    "id": 1,
+    "id": "${UUID()}",
     "userName": "user1",
     "userPass": "password1",
     "score": 20
   },
   {
-    "id": 2,
+    "id": "${UUID()}",
     "userName": "user2",
     "userPass": "password2",
     "score": 60
   },
   {
-    "id": 3,
+    "id": "${UUID()}",
     "userName": "user3",
     "userPass": "password3",
     "score": 40
